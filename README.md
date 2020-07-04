@@ -1,15 +1,6 @@
 # Transplant
 
-Andy: Programmer</br>
-Amy: Lead Artist, Animator</br>
-Trevor: Lead Programmer, Project Manager</br>
-Marco: Background and Object Artist</br>
-Clive: Sound</br>
-
-Side facing 2D game created using the Phaser game libraries. 
-
-## How to Run the Game
-Visit https://alpacalunch.itch.io/transplant to play!
+Neptine:Lead Programmer
 
 ## Instructions
 Keyboard | Action
